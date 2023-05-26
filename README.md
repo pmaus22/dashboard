@@ -1,8 +1,9 @@
 # Dashboard
 
-Implementierung einer Dashboard-basierten Reporting-Anwendung mit Hilfe eines BI-Tools
+Implementierung einer Dashboard-basierten Reporting-Anwendung mit Hilfe eines BI-Tools.
 
 Thema: Aufarbeitung der Corona Statistiken
+
 Gruppe: Jannik Kneer, Marcus Küp, Philip Maus, Veselin Kolev
 
 ## Links
