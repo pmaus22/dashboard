@@ -1,1 +1,7 @@
+1. Grafana wird als Analytics Anwendung genutzt, weil Philip bereits Erfahrungen besitzt und Grafana den Vorteil hat Daten mit Zeitstempel ordentlich darzustellen. 
+    PowerBI war auch zur Diskussion, da es eine integrierte Datenbank hat. 
+2. InfluxDB wird als Datenbank Anwendung genutzt. 
+3. Recherche nach vernünftiger API bei RKI, Destatis, Statista
+4. Recherche nach CSV Dateien als Ersatz der API, da die Aufzeichnung von Corona Daten auch teilweise eingeschränkt oder eingestellt wurden.
+5. 
 
