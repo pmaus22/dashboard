@@ -1,2 +1,3 @@
 RKI:
 https://github.com/robert-koch-institut/SARS-CoV-2-Nowcasting_und_-R-Schaetzung/blob/main/Nowcast_R_aktuell.csv
+(tägliche Daten zu Datum	PS_COVID_Faelle	UG_PI_COVID_Faelle	OG_PI_COVID_Faelle	PS_COVID_Faelle_ma4	UG_PI_COVID_Faelle_ma4	OG_PI_COVID_Faelle_ma4	PS_7_Tage_R_Wert	UG_PI_7_Tage_R_Wert	OG_PI_7_Tage_R_Wert)
