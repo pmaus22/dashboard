@@ -12,5 +12,6 @@ Impfungen mit Anzahl der Dosen, Intensivbettenbelegung (mit Corona infiziert) un
 - InfluxDB-Container auf privatem Server aufgesetzt
 - InfluxDB-Datenquelle in Grafana eingerichtet
 - Recherche nach CSV-Datenquellen und APIs bei RKI, Destatis, Statista, ... (Hier muss beachtet werden, dass die Aufzeichnung von Corona-Daten mittlerweile teilweise eingeschränkt oder eingestellt wurden.)
+- Konzept für einzelne Dashboards erstellt
 - Tests zum Datenimport von CSV-Dateien in InfluxDB
 - Datenimport stellt sich bei InfluxDB als schwierig heraus, da im CSV-Format Annotations mit Metadaten gefordert werden, welche nicht in den Datenquellen enthalten sind
