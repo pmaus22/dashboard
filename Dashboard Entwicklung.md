@@ -1,4 +1,4 @@
-# Dachboard Entwicklung
+# Dashboard Entwicklung
 
 ## Welche Daten sollen genutzt werden?
 
