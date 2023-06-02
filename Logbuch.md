@@ -23,3 +23,4 @@ Impfungen mit Anzahl der Dosen, Intensivbettenbelegung (mit Corona infiziert) un
 - Thesen aufgestellt: Welche Fragestellungen sollen wir mit dem Dashboard beantworten?
 - Weitere Konzeption und Ideensammlung zu spezifischen Statistiken
 - Quellensammlung zu spezifischen Statistiken
+- Einarbeitung Power BI
