@@ -27,8 +27,8 @@ Wurden innerhalb dieser Zeiträume wesentliche Monitoring-Vorgehensweisen verän
 Sind alle Daten sowohl zwischen verschiedenenr Datensätze als auch innerhalb der gleichen Datensätze miteinadner vergleichbar? Umstände gleich? Vorgehen gleich? Bedingungen Kriterien gleich?
 
 
-- Wie viel stärker sind die Corona Fallzahlen und Todesfälle ausgepräft im Vergleich zu der Grippe? Vergleich von verschiedenen Zeiträumen, da die beiden sich gegenseitig verdrängen.
-- Wie hat sich die Wirkung der Corona Impfung auf das Pandemiegeschehen ausgewirkt? Wurden innerhalb dieser Zeiträume wesentliche Monitoring Vorgehensweisen verändert? 
+- Wie viel stärker sind die Corona Fallzahlen und Todesfälle ausgepräft im Vergleich zu der Grippe? Vergleich von verschiedenen Zeiträumen, da die beiden sich gegenseitig verdrängen. - Marcus Küp
+- Wie hat sich die Wirkung der Corona Impfung auf das Pandemiegeschehen ausgewirkt? Wurden innerhalb dieser Zeiträume wesentliche Monitoring Vorgehensweisen verändert? Philip Maus
 - Wie haben sich die Hospitalisierungen vor und nach der Corona Impfung verhatlen? Gab es einen deutlichen Rückgang/ eine Zunahme?
 - Waren Ungeimpfte wirklich deutlich öfter/länger/schwerer betroffen und im Krankenhaus?
 - Welche Auswirkungen hat die Pandemie auf die Notenspiegel der verscheidenen Schulformen?
