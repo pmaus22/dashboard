@@ -26,7 +26,7 @@
     - Vaccination data: https://covid19.who.int/who-data/vaccination-data.csv
     - Vaccination metadata: https://covid19.who.int/who-data/vaccination-metadata.csv
 
-## Europäische Datanbank gemeldeter Verdachtsfälle von Arzneimittelnebenwirkungen
+## Europäische Datenbank gemeldeter Verdachtsfälle von Arzneimittelnebenwirkungen
    
 - Moderna (Elasomeran): https://dap.ema.europa.eu/analyticsSOAP/saw.dll?PortalPages&PortalPath=%2Fshared%2FPHV%20DAP%2F_portal%2FDAP&Action=Navigate&P0=1&P1=eq&P2=%22Line%20Listing%20Objects%22.%22Substance%20High%20Level%20Code%22&P3=1+40983312
 - Moderna (Imelasomeran): https://dap.ema.europa.eu/analyticsSOAP/saw.dll?PortalPages&PortalPath=%2Fshared%2FPHV%20DAP%2F_portal%2FDAP&Action=Navigate&P0=1&P1=eq&P2=%22Line%20Listing%20Objects%22.%22Substance%20High%20Level%20Code%22&P3=1+60124330
