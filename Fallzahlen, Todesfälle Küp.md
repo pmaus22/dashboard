@@ -3,5 +3,12 @@
 Quellen:
 
 Informationen zu Daten:
-
+https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste_Fallzahlen_Meldungen.html
 Wie werden die Fallzahlen ermittelt? 
+  Diese werden über das "Deutsches Elektronisches Melde- und Informationssystem für den Infektionsschutz" (DEMIS: www.rki.de/demis) gemeldet und müssen der Refernzdefinition (https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Falldefinition.html?nn=13490888) des RKI erfüllen. Heißt, PCR Test bzw. Erregerisolierung. 
+  
+Wie werden Todesfälle ermittelt?
+  Es muss ein laborbestätigter Nachweis vorliegen und in Bezug darauf verstorben sein. Es wird unterscheiden zwischen "gestorben an" und "gestorben mit", die Einordnung liegt aber im Ermessen des Gesundheitamtes. Nach dem Autopsie Register sind das 86% der Fälle die an verstorben sind und aich richtig gemeldet wurden.
+  
+  
+  
