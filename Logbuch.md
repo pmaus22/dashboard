@@ -25,3 +25,8 @@ Impfungen mit Anzahl der Dosen, Intensivbettenbelegung (mit Corona infiziert) un
 - Quellensammlung zu spezifischen Statistiken
 - Einarbeitung Power BI
 - Themenverteilung: Wer erstellt den Bericht zu welcher Fragestellung?
+
+## 16.06.23
+
+- Erstellung erster Mockups in Power BI
+- Ideenbesprechung und Ausarbeitung eines Konzepts für das Dashboard
