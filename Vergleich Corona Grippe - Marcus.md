@@ -13,3 +13,6 @@ Wie werden Todesfälle ermittelt?
   
   
 ##Datenquellen:
+WHO Corona https://covid19.who.int/WHO-COVID-19-global-data.csv
+WHO - FluNet https://frontdoor-l4uikgap6gz3m.azurefd.net/FLUMART/VIW_FNT?$format=csv
+Datentabelle per DAX Funktion - Kalender = Calender(Date(1995,01,01), Date(2023,12,31))
