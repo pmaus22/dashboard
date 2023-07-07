@@ -56,6 +56,7 @@ Impfungen mit Anzahl der Dosen, Intensivbettenbelegung (mit Corona infiziert) un
 ## 06.07.23
 
 - Finale Datenvalidierung
+- Vereinheitlichung des Dashboards (u. A. Design)
 - Vorbereitung Präsentation
 
 ## 07.07.23
