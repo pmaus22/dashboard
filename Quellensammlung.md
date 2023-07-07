@@ -31,6 +31,9 @@
     - Vaccination data: https://covid19.who.int/who-data/vaccination-data.csv
     - Vaccination metadata: https://covid19.who.int/who-data/vaccination-metadata.csv
 
+## Bundeswahlleiterin
+- Wahlergebnisse der Bundestagswahl 2021: https://www.bundeswahlleiterin.de/dam/jcr/f801a6d7-e51f-4804-baa4-dacec780704d/btw21_dsb_kerg2.pdf
+
 ## Europäische Datenbank gemeldeter Verdachtsfälle von Arzneimittelnebenwirkungen
    
 - Moderna (Elasomeran): https://dap.ema.europa.eu/analyticsSOAP/saw.dll?PortalPages&PortalPath=%2Fshared%2FPHV%20DAP%2F_portal%2FDAP&Action=Navigate&P0=1&P1=eq&P2=%22Line%20Listing%20Objects%22.%22Substance%20High%20Level%20Code%22&P3=1+40983312
