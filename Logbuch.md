@@ -30,3 +30,33 @@ Impfungen mit Anzahl der Dosen, Intensivbettenbelegung (mit Corona infiziert) un
 
 - Erstellung erster Mockups in Power BI
 - Ideenbesprechung und Ausarbeitung eines Konzepts für das Dashboard
+
+## 24.06.23
+
+- Jeder erstellt einen Bericht zur ausgewählten Fragestellung
+- Plan: Zusammenführung der Berichte am Ende des Projekts, da Kollaboration ohne Pro Lizenz nicht funktioniert
+
+## 30.06.23
+
+- Abgleich des Zwischenstandes der einzelnen Berichte
+
+## 03.07.23
+
+- Bearbeitung der Berichte in Einzelarbeit
+- Gemeinsame Absprache zum Zielbild
+
+## 05.07.23
+
+- Hochladen der einzelnen Berichte in OneDrive
+- Lokale Zusammenführung der .pbix-Dateien (19:00 bis 22:00 Uhr)
+    - Anleitung: https://www.c-sharpcorner.com/article/tips-and-tricks-to-merge-two-power-bi-reports/
+    - Nachteile beim manuellen zusammenkopieren: Alle Datenquellen aus den Ausgangs-Berichten müssen lokal verfügbar sein, die Pfade im Haupt-Bericht müssen evtl. angepasst werden, außerdem werden Measures, Beziehungen und manche Datentypenveränderungen nicht von den Ausgangs-Berichten in den Haupt-Bericht übernommen
+
+
+## 06.07.23
+
+- Finale Datenvalidierung des Berichts
+- Vorbereitung Präsentation
+
+## 07.07.23
+- Präsentation und Vorstellung des Berichts
